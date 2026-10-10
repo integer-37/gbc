@@ -7,7 +7,7 @@ Markdown website for comp1238, Assignment 1.
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [comp1238 page](comp1238.md)
 
-##Timetables
+## Timetables
 ### Sem. 1
 - Monday
   - **12:00pm** 2h (online) - COMP1151 - IT Essentials
